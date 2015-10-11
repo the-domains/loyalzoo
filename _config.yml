@@ -1,6 +1,7 @@
 name: Loyalzoo
 favicon: null
 layout_spectrum: 0.8
+typography_spectrum: 0.11892
 cta:
   domain: null
   bucket: null
@@ -14,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#75b3b5'
+    - '#f3f3f4'
+    - '#00ffff'
+    - '#000000'
+    - '#0000ff'
+  brandStrength: 0.8125
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
